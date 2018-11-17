@@ -1,9 +1,9 @@
 
-#lista{
+/*#lista{
 	width: 40%;
 	height: 50px;
 	background: grey;
-	margin:0 auto 5px; auto;	
+	margin:0 auto 5px; auto;*/	
 }
 #contenedor{
 	width: 90%;
@@ -15,7 +15,7 @@
 	width:100%;
 	height:250px;
 	background:lightgrey;
-	margin:0 auto 10px auto;
+	margin:10px auto 0 auto;
 	text-align: center;
 }
 #foto2{
