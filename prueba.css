@@ -1,0 +1,68 @@
+
+#lista{
+	width: 40%;
+	height: 50px;
+	background: grey;
+	margin:0 auto 5px; auto;	
+}
+#contenedor{
+	width: 90%;
+	margin:10px auto 0 auto;
+	position: relative;
+}
+
+#header{
+	width:100%;
+	height:250px;
+	background:lightgrey;
+	margin:0 auto 10px auto;
+	text-align: center;
+}
+#foto2{
+	width: 120px;
+	height: 120px;
+	margin:0 auto 0 auto;
+	
+}
+#banner{
+	width:100%;
+	height:60px;
+	background:red;
+	margin:10px auto 0 auto;
+	text-align: center;
+	padding: 5px 0 0 0;
+}
+#sidebar{
+	width:28%;
+	height:195px;
+	background:lightgrey;
+	margin:10px 1% 0 0;
+	text-align:left;
+	float: left;
+	padding: 5px 0 0 1%;
+}
+#articulo{
+	width:69%;
+	height:195px;
+	background:lightgrey;
+	margin:10px 0 0 0;
+	text-align:left;
+	float: left;
+	padding: 5px 0 0 1%;
+}
+#footer{
+	width:100%;
+	height:20px;
+	background:lightgrey;
+	margin:10px auto 0 auto;
+	float:left;
+	text-align:center;
+	padding: 5px 0 5px 0;
+}
+
+/* @media screen and (max-width: 768px) {
+  
+  #lista {
+    display:none;
+  }
+}*/
